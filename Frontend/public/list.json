@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Story Book",
+    "name": "Story ",
     "title": "Lore,ipsum dolor sit amet consectetur adipisicing elit",
     "price": 0,
     "category": "Free",
@@ -76,7 +76,7 @@
     "name": "Comedy Book",
     "title": "Lore,ipsum dolor sit amet consectetur adipisicing elit",
     "price": 20,
-    "category": "Entertainment",
+    "category": "Comedy",
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
   },
   {

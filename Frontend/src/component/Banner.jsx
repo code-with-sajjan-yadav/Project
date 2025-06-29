@@ -32,7 +32,7 @@ export default function Banner() {
         </label>
 
         {/* Button */}
-        <button className="btn mt-6  btn-secondary">Subscribe</button>
+        <button className="btn mt-6  btn-secondary">Get Started</button>
       </div>
 
       {/* Right Side - Image */}
